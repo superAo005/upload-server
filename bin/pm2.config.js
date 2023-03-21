@@ -3,8 +3,8 @@
  */
 
 module.exports = {
-  name: 'wangEditor-server',
-  script: 'bin/www.js',
+  name: 'upload-server',
+  script: 'bin/app.js',
   watch: false,
   instances: 1,
   error_file: './logs/err.log',

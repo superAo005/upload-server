@@ -5,7 +5,7 @@
   "description": "upload-image server",
   "main": "index.js",
   "scripts": {
-    "dev": "cross-env NODE_ENV=dev nodemon bin/www.js",
+    "dev": "cross-env NODE_ENV=dev nodemon bin/app.js",
     "prd-dev": "cross-env NODE_ENV=prd_dev pm2 start bin/pm2.config.js"
   },
   "repository": {
