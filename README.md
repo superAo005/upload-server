@@ -14,7 +14,7 @@
 
 运行
 
-- 下载[源码](https://github.com/superAo/server)到本地
+- 下载[源码](https://github.com/superAo005/upload-server)到本地
 - 打开控制台，进入 server 文件夹
 - 运行 `npm install` 安装插件
 - 运行 `npm run dev` 启动本地服务

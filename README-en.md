@@ -12,7 +12,7 @@ Upload image or video demo
 
 Run
 
-- Download [source code](https://github.com/wangeditor-team/server) to your computer
+- Download [source code](https://github.com/superAo005/upload-server) to your computer
 - Open terminal, direct to `server` folder
 - Run `npm install`
 - Run `npm run dev` and start server
