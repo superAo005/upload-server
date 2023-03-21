@@ -1,4 +1,4 @@
-# wangEditor server
+# upload server
 
 [English](./README-en.md)
 
@@ -8,7 +8,7 @@
 
 本机需要安装
 
-- nodejs （v12 版本及以上）
+- nodejs （v14 版本及以上）
 
 ## 本地运行
 
@@ -23,13 +23,6 @@
 
 - 上传图片 http://127.0.0.1:3000/html/upload-image.html
 - 上传视频 http://127.0.0.1:3000/html/upload-video.html
-
-## 相关文档
-
-- [上传图片配置](https://www.wangeditor.com/v5/menu-config.html#上传图片)
-- [上传视频配置](https://www.wangeditor.com/v5/menu-config.html#上传视频)
-- [视频教程](https://www.wangeditor.com/v5/video-course.html)
-
 ## 提交问题
 
-- [提交 issue](https://github.com/superAo/wangEditor/issues)
+- [提交 issue](https://github.com/superAo005/upload-server/issues)
